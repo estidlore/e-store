@@ -1,0 +1,12 @@
+.cache
+logs
+*.log
+
+coverage
+lib-cov
+*.lcov
+
+dist
+node_modules
+.npm
+*.tgz

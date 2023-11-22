@@ -1,0 +1,10 @@
+dist
+src/**/*.css.d.ts
+src/**/*.d.ts
+.eslintrc.js
+.vscode
+node_modules
+package.json
+package-lock.json
+tsconfig.json
+webpack.config.js
