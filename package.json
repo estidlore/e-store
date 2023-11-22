@@ -41,7 +41,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "react-template",
+  "name": "e-store",
   "scripts": {
     "build": "rm -rf ./dist && webpack-cli --env ENV=production",
     "format": "prettier --config .prettierrc.js --write src/**/*.{ts,tsx,scss}",
